@@ -1,0 +1,10 @@
+1,在单机上安装elk
+2，配置elk收集本机syslog日志
+3，配置elk收集本机http日志
+4，配置elk收集本机tomcat日志
+5，在单机上配置filebeat收集syslog日志
+6，在单机上配置kakfa收集syslog日志
+7，部署elasticsearch集群
+8，调优elk
+...
+未完待续
